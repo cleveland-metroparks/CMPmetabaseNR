@@ -1,6 +1,10 @@
 # CMPmetabaseNR
 Database based on Ecological Metadata Language (EML) and Environmental Data Initiative (EDI) for the Cleveland Metroparks.
 
+## How To
+For information on how to document datasets in our database with metadata see the wiki here: 
+https://github.com/plorch/CMPmetabaseNR/wiki
+
 ## Sources
 
 * EDI point of entry to setting up metadata database (metabase)
