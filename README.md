@@ -7,9 +7,13 @@ https://github.com/plorch/CMPmetabaseNR/wiki
 
 ## Sources
 
+** Note: ** cv refers to controlled vocabularies
+
 * EDI point of entry to setting up metadata database (metabase)
     * https://environmentaldatainitiative.org/five-phases-of-data-publishing/phase-3/#Do-It-Yourself
-* To create the database, we can fork from here
+* To create the database, we can clone from here
     * https://github.com/lter/LTER-core-metabase
+* To populate the database, see this
+   * https://github.com/lter/LTER-core-metabase/blob/master/docs/populate.md
 * R packages for creating EML from the database
     * https://github.com/BLE-LTER/MetaEgress
