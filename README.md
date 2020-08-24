@@ -14,6 +14,6 @@ https://github.com/plorch/CMPmetabaseNR/wiki
 * To create the database, we can clone from here
     * https://github.com/lter/LTER-core-metabase
 * To populate the database, see this
-   * https://github.com/lter/LTER-core-metabase/blob/master/docs/populate.md
+   * https://github.com/lter/LTER-core-metabase/blob/master/docs/populate.md#how-to-create-new-datasets
 * R packages for creating EML from the database
     * https://github.com/BLE-LTER/MetaEgress
