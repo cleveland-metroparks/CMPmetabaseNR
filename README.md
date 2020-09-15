@@ -10,10 +10,13 @@ https://github.com/plorch/CMPmetabaseNR/wiki
 ** Note: ** cv refers to controlled vocabularies
 
 * EDI point of entry to setting up metadata database (metabase)
-    * https://environmentaldatainitiative.org/five-phases-of-data-publishing/phase-3/#Do-It-Yourself
+  * https://environmentaldatainitiative.org/five-phases-of-data-publishing/phase-3/#Do-It-Yourself
 * To create the database, we can clone from here
-    * https://github.com/lter/LTER-core-metabase
+  * https://github.com/lter/LTER-core-metabase
 * To populate the database, see this
-   * https://github.com/lter/LTER-core-metabase/blob/master/docs/populate.md#how-to-create-new-datasets
+  * https://github.com/lter/LTER-core-metabase/blob/master/docs/populate.md#how-to-create-new-datasets
+* Populating methods
+  * There seems to be two ways to fill methods sections in EML
+    * https://github.com/BLE-LTER/LTER-core-metabase/blob/master/docs/populate.md#dataset-methods
 * R packages for creating EML from the database
-    * https://github.com/BLE-LTER/MetaEgress
+  * https://github.com/BLE-LTER/MetaEgress
