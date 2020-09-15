@@ -7,7 +7,11 @@ https://github.com/plorch/CMPmetabaseNR/wiki
 
 ## Sources
 
-** Note: ** cv refers to controlled vocabularies
+** Note: ** 
+* cv refers to controlled vocabularies
+* there appear to be two forks at least where how to populate the data are described
+  * lter (lower case)
+  * BLE-LTER (upper case)
 
 * EDI point of entry to setting up metadata database (metabase)
   * https://environmentaldatainitiative.org/five-phases-of-data-publishing/phase-3/#Do-It-Yourself
